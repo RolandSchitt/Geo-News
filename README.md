@@ -1,2 +1,2 @@
 # geo_news
-#test test test
+Implemented in C.  Delivers geo-located local news.  CS50 Project to learn APIs (google maps and news)
