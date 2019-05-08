@@ -1,4 +1,8 @@
 feedparser
 Flask
+Flask-Session
 Flask-JSGlue
+passlib
+SQLAlchemy
 gunicorn
+cs50
