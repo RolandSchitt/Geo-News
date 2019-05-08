@@ -20,7 +20,7 @@ if app.config["DEBUG"]:
         return response
 
 # configure CS50 Library to use SQLite database
-db = SQL("sqlite:///mashup.db")
+db = SQL("postgres://sdlvprcgdpegmt:fcec9bcd06638a5eaf07361a4b180f9491a832e1d30bc9db8572e2e453bebf76@ec2-23-23-241-119.compute-1.amazonaws.com:5432/dfgaqdk320rmv8")
 
 @app.route("/")
 def index():
